@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package taskrunner
 
 import (
@@ -6,7 +11,6 @@ import (
 	"time"
 
 	"github.com/pkg/errors"
-
 	"golang.org/x/sync/errgroup"
 )
 

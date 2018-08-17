@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 // Package taskrunner provides an API for running concurrent tasks in a promise-like
 // style without having to deal with concurrency directly.
 //

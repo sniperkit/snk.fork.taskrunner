@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package main
 
 import (
@@ -7,7 +12,7 @@ import (
 	"log"
 	"runtime"
 
-	"github.com/MixedMessages/taskrunner"
+	"github.com/sniperkit/snk.fork.taskrunner"
 )
 
 // HelloWorldTask wraps a number that prefixes the hello world message

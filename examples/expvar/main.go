@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package main
 
 import (
@@ -15,8 +20,9 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/MixedMessages/taskrunner"
 	"github.com/go-kit/kit/metrics/expvar"
+
+	"github.com/sniperkit/snk.fork.taskrunner"
 )
 
 // HelloWorldTask wraps a number that prefixes the hello world message
